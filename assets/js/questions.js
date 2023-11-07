@@ -5,16 +5,16 @@ var questions = [
     { 
     question: "Commonly used data types do NOT include:",
     answer: ["Strings", "Booleans", "Alerts", "Numbers"],
-    correctAnswer: 2 
+    correctAnswerIndex: 2 
     },
     {
     question: "arrays in Javascript can be used to store:",
     answer: ["Numbers and strings", "Other arrays", "Booleans", "All of the above"],
-    correctAnswer: 3
+    correctAnswerIndex: 3
     },
     {
     question: "The condition in an if/else statement is enclosed with _____",
     answer: ["Quotes", "Curly brackets", "Paranthesis", "Square brackets"],
-    correctAnswer: 2
+    correctAnswerIndex: 2
     }
 ]
