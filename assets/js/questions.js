@@ -10,7 +10,7 @@ var questions = [
     {
     question: "arrays in Javascript can be used to store:",
     answer: ["Numbers and strings", "Other arrays", "Booleans", "All of the above"],
-    correctAnswer: 2
+    correctAnswer: 3
     },
     {
     question: "The condition in an if/else statement is enclosed with _____",
